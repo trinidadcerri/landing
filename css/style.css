@@ -1,0 +1,33 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+/* Importing all components file */
+@import url("components/banner.css");
+@import url("components/cards.css");
+@import url("components/buttons.css");
+@import url("components/container.css");
+@import url("components/footer.css");
+
+/* Utilities */
+/* Custom design below! */
+body {
+  font-family: Alice;
+  margin: 0;
+}
+
+h1, h2, h3 {
+  color: #404042;
+  font-family: Alice;
+}
+
+p {
+  color: #404042;
+  opacity: .7;
+}
+
+a {
+  text-decoration: none;
+}

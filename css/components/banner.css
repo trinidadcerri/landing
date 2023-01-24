@@ -1,0 +1,30 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('images/background.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  text-align: center;
+}
+
+.banner-info {
+  text-align: center;
+  padding: 30px;
+  margin: 20px;
+  display: block;
+  list-style-type: disc;
+}
+
+.banner h1 {
+  color: gray
+  font-size: 45px;
+  margin: 0;
+}
+
+.banner p {
+  color: lightgray
+  font-size: 24px;
+}
+
+.banner img {
+  filter: grayscale(100%);
+}

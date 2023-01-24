@@ -1,0 +1,31 @@
+.footer {
+  text-align: center;
+  padding: 20px;
+  background-color: lightsteelblue;
+}
+
+.footer p h2 {
+  text-align: center;
+  color: whitesmoke;
+}
+
+.list-inline i {
+  font-size: 25px;
+  color: whitesmoke;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+  }
+
+li {
+    display: inline;
+}
+
+/* icons smaller / space between / flexbox with width (fix) justify content space between */
